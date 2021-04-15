@@ -8,8 +8,7 @@
 ## Sobre
 
 Olá, eu sou o Yuji Fujimoto.
-Desenvolvedor Back-End a 2 anos atuando com foco em soluções Java com Spring Boot,
-
+Desenvolvedor Back-End a 2 anos atuando com foco em soluções Java com Spring Boot.
 Atualmente participando do time de desenvolvimento alocado para o Banco GMF, desenvolvendo e construindo soluções para o sistema de financiamento do banco GMF.
 
 ## Habilidades
