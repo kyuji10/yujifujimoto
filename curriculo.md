@@ -8,7 +8,7 @@
 ## Sobre
 
 Olá, eu sou o Yuji Fujimoto.
-Desenvolvedor Back-End a 2 anos atuando com foco em soluções Java com Spring Boot.
+Desenvolvedor Back-End a 3 anos atuando com foco em soluções Java com Spring Boot.
 Atualmente participando do time de desenvolvimento alocado para o Banco GMF, desenvolvendo e construindo soluções para o sistema de financiamento do banco GMF.
 
 ## Habilidades
@@ -39,7 +39,7 @@ Atualmente participando do time de desenvolvimento alocado para o Banco GMF, des
 
 ## Experiência
 
-*   Analista de sistemas Jr. II **[Accurate](http://www.accurate.com.br)**, São Paulo, SP - `10/2019`
+*   Analista de sistemas Pl. I **[Accurate](http://www.accurate.com.br)**, São Paulo, SP - `10/2019`
 
 *   Analista de suporte **[Faberge](http://grupofaberge.com/)**, Mogi das Cruzes, SP - `12/2018 - 10/2019`
 
